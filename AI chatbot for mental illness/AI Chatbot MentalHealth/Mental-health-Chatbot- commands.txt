@@ -1,0 +1,29 @@
+project folder path... select...type cmd.. enter
+type cmd window...code .
+enter
+
+open terminal.. new terminal click
+
+
+then
+
+python -m venv venv ... enter
+
+.\venv\scripts\activate   ... enter
+
+cd .\Chatbot\
+
+pip install -r req.txt ...enter
+
+
+python.exe -m pip install --upgrade pip   ...enter
+
+python training.py
+
+
+python app.py
+
+Running on http://127.0.0.1:5000...Ctrl+Click
+
+
+

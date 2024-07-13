@@ -1,0 +1,80 @@
+how to install python easy way
+
+1... way
+
+python3.8 manually application file 
+right click ... run us administrator...
+
+instalation first page ... click Add to path ... enable 
+
+then click next...
+
+then only install path is correct...
+
+then
+
+CLICK open power shell... run us administrator...
+
+follow below link instructions
+
+https://www.stanleyulili.com/powershell/solution-to-running-scripts-is-disabled-on-this-system-error-on-powershell
+
+inside power shell two commands
+Get-ExecutionPolicy ... enter
+
+set-executionpolicy remotesigned .... enter
+
+then venv (virtual Environmental) is working profer way
+
+install...
+cmd.... enter
+
+c:\users> display default...
+
+after installation
+give below command to update the pip
+
+python -m pip install --upgrade pip
+
+python --version... enter
+
+py version will display.. it is ok..
+
+
+
+
+
+2....way..
+
+connect the internet
+
+search box... cmd .... enter.. open command window...
+
+c:\users> display default...
+
+type.. c:\users>python
+
+microsoft store open .. 
+we see the python 3.12 verson... click.. Get.. button
+
+python install automatically
+
+then
+
+Django installation
+Internet connected after
+type cmd
+go to this path
+c:\users> display default...
+
+type.. c:\users>pip install django .. enter Automatically installed
+
+command prompt download django run this command
+pip install django
+automatic downloaded
+cd project
+dir
+
+django-admin startproject myproject
+python manage.py startapp myapp
+python manage.py runserver

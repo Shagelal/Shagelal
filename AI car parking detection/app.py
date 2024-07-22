@@ -8,7 +8,7 @@ from flask import Flask, render_template, request, redirect, flash, url_for, ses
 from flask_login import login_required, logout_user, current_user
 
 app = Flask(__name__)
-conn = ibm_db.connect("DATABASE=bludb;HOSTNAME=54a2f15b-5c0f-46df-8954-7e38e612c2bd.c1ogj3sd0tgtu0lqde00.databases.appdomain.cloud;PORT=32733;SECURITY=SSL;SSLServerCertificate=DigiCertGlobalRootCA.crt;UID=kxm84008;PWD=TMTwN88lbZK2FfTe;", "", "")
+conn = ibm_db.connect()# your DB url
 
 app.config['SECRET_KEY'] = "my-Secret_key"
 

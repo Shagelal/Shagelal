@@ -18,7 +18,7 @@
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
-class ShagelacC:
+class Shagelal_C:
     def __init__(self):
         self.name          = "Shagelal C"
         self.location      = "Kanyakumari, Tamil Nadu, India"
@@ -35,11 +35,10 @@ class ShagelacC:
         self.currently_learning = [
             "CEH v13 (Certified Ethical Hacker)",
             "Advanced Penetration Testing",
-            "Malware Analysis & Reverse Engineering",
             "Threat Hunting & SIEM Engineering"
         ]
 
-        self.fun_fact = "I've completed 27+ TryHackMe rooms & HTB Sherlocks"
+        self.fun_fact = "I've completed 70+ TryHackMe rooms & HTB Sherlocks"
 
     def motto(self):
         return "Hack the planet — ethically. 🛡️"

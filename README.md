@@ -135,7 +135,7 @@ class Shagelal_C:
 ## 💼 Work Experience
 
 <details>
-<summary>🛡️ <strong>TechByHeart Academy</strong> — Cybersecurity Intern | Nov 2025 – Dec 2025 | Remote / Tamil Nadu</summary>
+<summary>🛡️ <strong>TechByHeart Academy</strong> — Cybersecurity Intern | Nov 2025 – Dec 2025 </summary>
 
 <br/>
 
@@ -189,7 +189,7 @@ class Shagelal_C:
 
 | 🎖️ | Achievement | Details |
 |:---:|:---|:---|
-| 🟥 | **TryHackMe** | Completed **27+ rooms** across Web, Network, Linux, Windows & Privilege Escalation |
+| 🟥 | **TryHackMe** | Completed **70+ rooms** across Web, Network, Linux, Windows & Privilege Escalation |
 | 🟩 | **HackTheBox** | Completed **Sherlocks** + beginner challenges |
 | 📜 | **CEH v13** | Certified Ethical Hacker v13 — *In Progress* |
 | 🎓 | **Advanced Diploma — Cyber Security** | TechByHeart Academy (Jan 2025 – Present) |

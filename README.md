@@ -8,7 +8,7 @@
 </a>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Cybersecurity+Analyst+%7C+SOC+Analyst;Ethical+Hacker+%7C+Penetration+Tester;70%2B+TryHackMe+Rooms+Completed;%20Securing+the+Digital+World%2C+One+Vuln+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Cybersecurity+Analyst+%7C+SOC+Analyst;Ethical+Hacker+%7C+Penetration+Tester;70%2B+TryHackMe+Rooms+Completed;%20%20Securing+the+Digital+World%2C+One+Vuln+at+a+Time" alt="Typing SVG" />
 </div>
 
 ---

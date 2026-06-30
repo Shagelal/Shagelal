@@ -146,7 +146,7 @@ class Shagelal_C:
 </details>
 
 <details>
-<summary>🤖 <strong>Shiash Infotech</strong> — Machine Learning Intern | 2023 (4 Months)</summary>
+<summary>🤖 <strong>Shiash Infotech</strong> — Machine Learning Intern | 2024 (4 Months)</summary>
 
 <br/>
 

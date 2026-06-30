@@ -27,8 +27,8 @@ class Shagelal_C:
         self.email         = "shage.lal@gmail.com"
 
         self.stack = [
-            "Kali Linux", "Metasploit", "Burp Suite",
-            "Wireshark", "Nmap", "Nessus", "SIEM",
+            "Kali Linux", "Fedora Linux", "Metasploit", "Burp Suite",
+            "Wireshark", "Nmap", "Nessus", "Wazuh", "Suricata IDS",
             "Python", "Bash", "PowerShell"
         ]
 
@@ -38,7 +38,7 @@ class Shagelal_C:
             "Threat Hunting & SIEM Engineering"
         ]
 
-        self.fun_fact = "I've completed 70+ TryHackMe rooms & HTB Sherlocks"
+        self.fun_fact = "I've completed 70+ TryHackMe rooms"
 
     def motto(self):
         return "Hack the planet — ethically. 🛡️"
@@ -70,15 +70,18 @@ class Shagelal_C:
 **🖥️ Operating Systems & Platforms**
 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 
-**📊 Monitoring & SIEM**
+**📊 SIEM, IDS & Monitoring**
 
-![Splunk](https://img.shields.io/badge/SIEM%20Tools-000000?style=flat-square&logo=splunk&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Log%20Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3AB0FF?style=flat-square&logo=wazuh&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata%20IDS-CB0000?style=flat-square&logo=suricata&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk%20(Log%20Analysis)-000000?style=flat-square&logo=splunk&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
 
 **🧠 ML / AI Tools**
 
@@ -133,18 +136,17 @@ class Shagelal_C:
 
 > ![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logo=nmap&logoColor=white)
 > ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-> ![SIEM](https://img.shields.io/badge/SIEM-000000?style=flat-square&logo=splunk&logoColor=white)
 > ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+> ![Nessus](https://img.shields.io/badge/Nessus-00B4C8?style=flat-square&logo=tenable&logoColor=white)
 
-- 🔍 Performed **threat detection, SIEM alert triage, and log analysis** across multiple simulated environments
-- 🌐 Conducted **network scanning, packet analysis**, and hands-on exploitation labs on vulnerable machines
-- 📋 Gained end-to-end exposure to **SOC workflows** including incident triage, escalation, and reporting
-- 🧪 Executed **vulnerability scanning** using industry-standard tools in controlled lab environments
+- 🔍 Performed **SIEM alert triage and log analysis** to detect suspicious activity, practicing SOC Tier 1 workflows including alert triage and incident documentation
+- 🌐 Conducted **network scanning, packet analysis**, and hands-on exploitation labs simulating real-world attack scenarios using Nmap, Wireshark, and Metasploit
+- 🧪 Conducted **vulnerability scanning** using Nessus and Nikto, identifying and reporting vulnerabilities across simulated network environments
 
 </details>
 
 <details>
-<summary>🤖 <strong>Shiash Infotech</strong> — Machine Learning Intern | 4 Months</summary>
+<summary>🤖 <strong>Shiash Infotech</strong> — Machine Learning Intern | 2023 (4 Months)</summary>
 
 <br/>
 
@@ -154,9 +156,7 @@ class Shagelal_C:
 > ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 - 🧠 Developed **ML-based detection and classification algorithms** for real-world application use cases
-- 🔬 Built and trained models with a focus on **precision, recall, and practical deployment**
-- 🛠️ Hands-on work with data pipelines, feature engineering, and model evaluation
-- 📊 Collaborated on end-to-end ML projects from data preprocessing through to production-ready prototypes
+- 🔬 Built and trained neural network models for real-world detection use cases, contributing to end-to-end project development
 
 </details>
 
@@ -168,6 +168,7 @@ class Shagelal_C:
 
 | 🗂️ Project | ⚙️ Stack | ✨ Highlights |
 |:---|:---|:---|
+| [**🛡️ Enterprise SIEM & IDS Home Lab**](https://github.com/Shagelal/Shagelal) | Fedora Linux · Wazuh · Wazuh Indexer/Dashboard · Filebeat · Suricata IDS · Tailscale · Auditd | Centralized SOC lab with a Fedora host running Wazuh, monitoring Windows & Kali Linux agents; Suricata IDS for network alerts; FIM, SCA, Rootcheck, vulnerability detection, and Tailscale SSH for secure remote administration |
 | [**🚗 AI Car Parking Detection**](https://github.com/Shagelal/Shagelal) | Python · OpenCV · Pickle · Flask | Computer vision model detecting real-time parking space availability; ML-powered classification pipeline with a Flask web interface |
 | [**🧠 AI Chatbot for Mental Illness**](https://github.com/Shagelal/Shagelal) | Python · NumPy · Keras · HTML | NLP-powered empathetic chatbot with multilingual support; deep learning model providing emotional support and mental wellness assistance |
 
@@ -182,11 +183,11 @@ class Shagelal_C:
 | 🎖️ | Achievement | Details |
 |:---:|:---|:---|
 | 🟥 | **TryHackMe** | Completed **70+ rooms** across Web, Network, Linux, Windows & Privilege Escalation |
-| 🟩 | **HackTheBox** | Completed **Sherlocks** + beginner challenges |
 | 📜 | **CEH v13** | Certified Ethical Hacker v13 — *In Progress* |
+| 🛡️ | **CSA** | Certified SOC Analyst — TechByHeart Academy |
+| 🔎 | **CST** | Certified Security Tester — TechByHeart Academy |
 | 🎓 | **Advanced Diploma — Cyber Security** | TechByHeart Academy (Jan 2025 – Present) |
 | 🐍 | **Python Basics Certification** | CADD Centre × Livewire |
-| 🔬 | **Coursework Completed** | Network Security · Ethical Hacking · Malware Analysis · SIEM · Firewalls · Cyber Forensics |
 
 </div>
 
@@ -199,8 +200,8 @@ class Shagelal_C:
 | 🎓 Degree | 🏛️ Institution | 📅 Year | 📈 Score |
 |:---|:---|:---:|:---:|
 | B.E. Computer Science & Engineering | Marthandam College of Engineering and Technology | 2020 – 2024 | CGPA: 7.55 |
-| HSC — Computer Science | Abraham Memorial Hr. Sec School | — | 70.5% |
-| SSLC — Tamil Nadu State Board | Abraham Memorial Hr. Sec School | — | 83% |
+| HSC — Computer Science | Abraham Memorial Hr. Sec School | 2019 – 2020 | 70.5% |
+| SSLC — Tamil Nadu State Board | Abraham Memorial Hr. Sec School | 2017 – 2018 | 83% |
 
 </div>
 
@@ -210,7 +211,6 @@ class Shagelal_C:
 
 ```
 🛡️  CEH v13              →  Certified Ethical Hacker v13 Exam Preparation
-🔬  Malware Analysis      →  Static & Dynamic Analysis, Reverse Engineering Basics
 🕵️  Threat Hunting        →  SIEM Engineering, Log Correlation, Indicator Analysis
 🌐  Web App Pentesting    →  OWASP Top 10, Advanced Burp Suite, API Security
 🔐  Network Security      →  Firewall Tuning, IDS/IPS, VPN Security Assessments

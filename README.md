@@ -38,7 +38,7 @@ class Shagelal_C:
             "Threat Hunting & SIEM Engineering"
         ]
 
-        self.fun_fact = "I've completed 70+ TryHackMe rooms"
+        self.fun_fact = "I've completed 90+ TryHackMe rooms"
 
     def motto(self):
         return "Hack the planet — ethically. 🛡️"

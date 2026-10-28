@@ -8,7 +8,7 @@
 </a>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Cybersecurity+Analyst+%7C+SOC+Analyst;Ethical+Hacker+%7C+Penetration+Tester;70%2B+TryHackMe+Rooms+Completed;Securing+the+Digital+World%2C+One+Vuln+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Cybersecurity+Analyst+%7C+SOC+Analyst;Ethical+Hacker+%7C+Penetration+Tester;90%2B+TryHackMe+Rooms+Completed;Securing+the+Digital+World%2C+One+Vuln+at+a+Time" alt="Typing SVG" />
 </div>
 
 ---
@@ -182,7 +182,7 @@ class Shagelal_C:
 
 | 🎖️ | Achievement | Details |
 |:---:|:---|:---|
-| 🟥 | **TryHackMe** | Completed **70+ rooms** across Web, Network, Linux, Windows & Privilege Escalation |
+| 🟥 | **TryHackMe** | Completed **90+ rooms** across Web, Network, Linux, Windows & Privilege Escalation |
 | 📜 | **CEH v13** | Certified Ethical Hacker v13 — *In Progress* |
 | 🛡️ | **CSA** | Certified SOC Analyst — TechByHeart Academy |
 | 🔎 | **CST** | Certified Security Tester — TechByHeart Academy |
